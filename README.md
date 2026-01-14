@@ -45,6 +45,13 @@
 <br />
 
 <div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=RomarioDelphin&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomarioDelphin&layout=compact&theme=dark&hide_border=true" />
+  </a>
+</div>
   <img src="https://github-readme-stats.vercel.app/api?username=RomarioDelphin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomarioDelphin&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="150" alt="langs" />
 </div>
