@@ -31,12 +31,12 @@
 <div align="center">
   <h3>🧬 Laboratório de Pesquisa (Open Source)</h3>
 
-| Projeto | Stack | Status |
+| Projeto (Repositório) | Stack | Status |
 | :--- | :--- | :--- |
-| **🤖 HumanDesk** | `React` `OpenAI` | 🟢 **Produção** (CRM Híbrido) |
-| **🏭 Sentinela** | `Python` `Scikit` | 🟡 **Manutenção** (IoT/Agro) |
-| **🏛️ SAPL AI** | `LangChain` | 🔵 **Case** (Legislativo) |
-| **⚖️ Engine.OS** | `VectorDB` | 🟣 **Proprietário** (Core) |
+| [**✂️ barberflow**](https://github.com/RomarioDelphin/barberflow) | `JS` `Web` | 🟢 **Produção** (Gestão) |
+| [**🏭 Sentinela_Industrial**](https://github.com/RomarioDelphin/Sentinela_Industrial) | `Python` `AI` | 🟡 **Manutenção** (IoT/Agro) |
+| [**🏛️ Consulta-CNPJ-AI**](https://github.com/RomarioDelphin/Consulta-de-CNPJ-com-Analise-IA) | `Flask` `Gov` | 🔵 **Case** (Análise Risco) |
+| [**🛠️ Gerador-de-Infos**](https://github.com/RomarioDelphin/Gerador-de-Informa-es) | `Tools` `Utils` | 🟣 **Utilitários** (Core) |
 </div>
 
 <br />
