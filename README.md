@@ -37,4 +37,12 @@
 | **🤖 HumanDesk** | `React` `OpenAI` | 🟢 **Produção** (CRM Híbrido) |
 | **🏭 Sentinela** | `Python` `Scikit` | 🟡 **Manutenção** (IoT/Agro) |
 | **🏛️ SAPL AI** | `LangChain` | 🔵 **Case** (Legislativo) |
-| **⚖️ Engine.OS** | `VectorDB` | 🟣 **Proprietário
+| **⚖️ Engine.OS** | `VectorDB` | 🟣 **Proprietário** (Core) |
+
+<br />
+
+<div align="center">
+  <h3>🛠️ Tech Stack & Arsenal</h3>
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,tailwind,flask,postgres,docker,git,linux,vscode&perline=12" />
+</div>
