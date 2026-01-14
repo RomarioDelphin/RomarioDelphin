@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000205&height=300&section=header&text=ROMÁRIO%20DELPHIN&fontSize=70&fontAlignY=35&desc=AI%20RESEARCHER%20|%20CEO%20RAM.IO&descAlignY=55&descSize=20&fontColor=06b6d4&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=ROMÁRIO%20DELPHIN&fontSize=70&fontAlignY=35&desc=AI%20RESEARCHER%20|%20CEO%20RAM.IO&descAlignY=55&descSize=20&fontColor=ffffff&customColorList=06b6d4,22d3ee,000205&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-  <h3> 🧠 Central Intelligence & RAM.IO Holdings </h3>
+  <br />
+  <h3>🧠 Central Intelligence & RAM.IO Holdings</h3>
   <p>Convergência entre Agronegócio, Governança Pública e Inteligência Artificial.</p>
   
   <a href="https://romariodelphin.github.io">
@@ -16,28 +17,24 @@
 
 <br />
 
-### 🏗️ Arquitetura Corporativa (Holdings)
+<div align="center">
+  <h3>⚡ Arquitetura Corporativa (Holdings)</h3>
+</div>
 
-| **RAM.IO** (Core) | **RAM.FLOW** (Auto) | **RAM.STUDIO** (Design) | **RAM.HUMAN** (Edu) |
+| <center>💎 **RAM.IO**<br>*(Núcleo)*</center> | <center>🤖 **RAM.FLOW**<br>*(Automação)*</center> | <center>🎨 **RAM.STUDIO**<br>*(Design)*</center> | <center>🧠 **RAM.HUMAN**<br>*(Educação)*</center> |
 | :---: | :---: | :---: | :---: |
-| 🤖 LLMs Proprietárias | ⚡ Automação CRM | 🎨 Branding Tech | 🎓 Treinamento IA |
-| *Python, PyTorch* | *n8n, APIs* | *UI/UX, Figma* | *Workshops* |
+| LLMs Proprietárias | Automação CRM | Branding Tech | Treinamento IA |
+| *Python, PyTorch* | *n8n, APIs* | *Figma, UI/UX* | *Workshops* |
 
 <br />
 
-### 🔬 Laboratório de Pesquisa & Projetos (Public Code)
+<div align="center">
+  <h3>🧬 Laboratório de Pesquisa (Open Source)</h3>
+</div>
 
 | Projeto | Stack | Status |
 | :--- | :--- | :--- |
-| **🤖 HumanDesk** | `React` `OpenAI` `Node` | 🟢 Em Produção (CRM Híbrido) |
-| **🏭 Sentinela Industrial** | `Python` `Scikit-learn` | 🟡 Manutenção (IoT/Agro) |
-| **🏛️ SAPL Intelligence** | `LangChain` `GovTech` | 🔵 Case de Sucesso (Legislativo) |
-| **⚖️ Engine.OS** | `VectorDB` `Guardrails` | 🟣 Proprietário (Core System) |
-
-<br />
-
-### 🛠️ Tech Stack & Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,tailwind,flask,postgres,docker,git,linux,vscode&perline=12" />
-</div>
+| **🤖 HumanDesk** | `React` `OpenAI` | 🟢 **Produção** (CRM Híbrido) |
+| **🏭 Sentinela** | `Python` `Scikit` | 🟡 **Manutenção** (IoT/Agro) |
+| **🏛️ SAPL AI** | `LangChain` | 🔵 **Case** (Legislativo) |
+| **⚖️ Engine.OS** | `VectorDB` | 🟣 **Proprietário
