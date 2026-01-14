@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=250&section=header&text=ROMÁRIO%20DELPHIN&fontSize=70&fontAlignY=35&desc=AI%20RESEARCHER%20|%20CEO%20RAM.IO&descAlignY=55&descSize=20&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000205&height=300&section=header&text=ROMÁRIO%20DELPHIN&fontSize=70&fontAlignY=35&desc=AI%20RESEARCHER%20|%20CEO%20RAM.IO&descAlignY=55&descSize=20&fontColor=06b6d4&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -7,10 +7,10 @@
   <p>Convergência entre Agronegócio, Governança Pública e Inteligência Artificial.</p>
   
   <a href="https://romariodelphin.github.io">
-    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_NEURAL_NET-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_NEURAL_NET-000205?style=for-the-badge&logo=google-chrome&logoColor=06b6d4&labelColor=000205&color=06b6d4" />
   </a>
   <a href="https://linkedin.com/in/romariodelphin">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000205?style=for-the-badge&logo=linkedin&logoColor=06b6d4&labelColor=000205&color=06b6d4" />
   </a>
 </div>
 
