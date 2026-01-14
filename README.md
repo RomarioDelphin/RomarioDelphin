@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=ROMÁRIO%20DELPHIN&fontSize=70&fontAlignY=35&desc=AI%20RESEARCHER%20|%20CEO%20RAM.IO&descAlignY=55&descSize=20&fontColor=ffffff&customColorList=06b6d4,22d3ee,000205&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=ROMÁRIO%20DELPHIN&fontSize=70&fontAlignY=35&desc=AI%20RESEARCHER%20|%20CEO%20RAM.IO&descAlignY=55&descSize=20&fontColor=ffffff&customColorList=06b6d4,000205&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -19,18 +19,17 @@
 
 <div align="center">
   <h3>⚡ Arquitetura Corporativa (Holdings)</h3>
-</div>
-
+  
 | <center>💎 **RAM.IO**<br>*(Núcleo)*</center> | <center>🤖 **RAM.FLOW**<br>*(Automação)*</center> | <center>🎨 **RAM.STUDIO**<br>*(Design)*</center> | <center>🧠 **RAM.HUMAN**<br>*(Educação)*</center> |
 | :---: | :---: | :---: | :---: |
 | LLMs Proprietárias | Automação CRM | Branding Tech | Treinamento IA |
 | *Python, PyTorch* | *n8n, APIs* | *Figma, UI/UX* | *Workshops* |
+</div>
 
 <br />
 
 <div align="center">
   <h3>🧬 Laboratório de Pesquisa (Open Source)</h3>
-</div>
 
 | Projeto | Stack | Status |
 | :--- | :--- | :--- |
@@ -38,6 +37,7 @@
 | **🏭 Sentinela** | `Python` `Scikit` | 🟡 **Manutenção** (IoT/Agro) |
 | **🏛️ SAPL AI** | `LangChain` | 🔵 **Case** (Legislativo) |
 | **⚖️ Engine.OS** | `VectorDB` | 🟣 **Proprietário** (Core) |
+</div>
 
 <br />
 
