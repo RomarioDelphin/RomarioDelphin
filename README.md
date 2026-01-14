@@ -36,7 +36,8 @@
 | [**✂️ barberflow**](https://github.com/RomarioDelphin/barberflow) | `JS` `Web` | 🟢 **Produção** (Gestão) |
 | [**🏭 Sentinela_Industrial**](https://github.com/RomarioDelphin/Sentinela_Industrial) | `Python` `AI` | 🟡 **Manutenção** (IoT/Agro) |
 | [**🏛️ Consulta-CNPJ-AI**](https://github.com/RomarioDelphin/Consulta-de-CNPJ-com-Analise-IA) | `Flask` `Gov` | 🔵 **Case** (Análise Risco) |
-| [**🛠️ Gerador-de-Infor**](https://github.com/RomarioDelphin/Gerador-de-Informacoes) | `Tools` `Utils` | 🟣 **Utilitários** (Core) |
+| [**🛠️ Gerador de Dados**](https://github.com/RomarioDelphin/Gerador-de-Informacoes) | `Tools` `Utils` | 🟣 **Utilitários** (Core) |
+| [**🌐 Digital HQ (Source)**](https://github.com/RomarioDelphin/RomarioDelphin.github.io) | `Canvas` `JS` | ⚪ **Frontend** (Portfolio) |
 </div>
 
 <br />
