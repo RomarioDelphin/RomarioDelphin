@@ -1,53 +1,68 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=ROMÁRIO%20DELPHIN&fontSize=70&fontAlignY=35&desc=OPERATIONS%20%26%20DIGITAL%20TRANSFORMATION%20|%20AI%20%26%20AUTOMATION&descAlignY=55&descSize=20&fontColor=ffffff&customColorList=06b6d4,000205&animation=fadeIn" width="100%"/>
-</div>
-
-<br />
-
-<div align="center">
-  <h3>🧠 Applied Intelligence & Process Automation Lab</h3>
-  <p>
-    Convergência entre operações industriais, eficiência operacional e 
-    inteligência artificial aplicada à tomada de decisão.
-  </p>
+  <br />
+  <h3>Laboratório de Inteligência Aplicada e Automação de Processos</h3>
+  <p>Convergência entre Operações, Eficiência Operacional e Transformação Digital com IA aplicada.</p>
   
   <a href="https://romariodelphin.github.io">
     <img src="https://img.shields.io/badge/PORTFOLIO-OPERATIONS_%26_TRANSFORMATION-000205?style=for-the-badge&logo=google-chrome&logoColor=06b6d4&labelColor=000205&color=06b6d4" />
   </a>
   <a href="https://linkedin.com/in/romariodelphin">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000205?style=for-the-badge&logo=linkedin&logoColor=06b6d4&labelColor=000205&color=06b6d4" />
+    <img src="https://img.shields.io/badge/LINKEDIN-ROMARIODELPHIN-000205?style=for-the-badge&logo=linkedin&logoColor=06b6d4&labelColor=000205&color=06b6d4" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <h3>⚡ Arquiteturas & Frameworks Técnicos</h3>
-  
-| <center>💎 **RAM.IO**<br>Core Architecture</center> | <center>🤖 **RAM.FLOW**<br>Automation Layer</center> | <center>🎨 **RAM.STUDIO**<br>Interface & UX</center> | <center>🧠 **RAM.HUMAN**<br>Knowledge & Enablement</center> |
-| :---: | :---: | :---: | :---: |
-| IA Aplicada & Decisão | Automação de Processos | UI / UX Técnico | Capacitação Técnica |
-| *Python, PyTorch* | *n8n, APIs* | *Figma, Frontend* | *Workshops & Labs* |
+  <h3>Foco de Atuação</h3>
+</div>
+
+- Operações Industriais e Agroindustriais: eficiência, produtividade, segurança e custos  
+- Transformação Digital: automação de processos, integrações e governança de dados  
+- IA aplicada: análise de risco, suporte à decisão e automações cognitivas  
+- Engenharia de processos: padronização, indicadores, auditoria e melhoria contínua  
+
+<br />
+
+<div align="center">
+  <h3>🧬 Projetos em Destaque (Portfólio Técnico)</h3>
+
+| Projeto | Problema de Negócio | Stack | Evidência |
+| :--- | :--- | :--- | :--- |
+| [**🏛️ Consulta de CNPJ com Análise de Risco (IA)**](https://github.com/RomarioDelphin/Consulta-de-CNPJ-com-Analise-IA) | Diagnóstico rápido de risco e conformidade | `Python` `Flask` `Rules/AI` | Case de decisão |
+| [**🏭 Sentinela Industrial (Manutenção Preditiva)**](https://github.com/RomarioDelphin/Sentinela_Industrial) | Previsão de falhas com dados de sensores | `Python` `ML` `Streamlit` | IA aplicada |
+| [**🌐 Portfolio (Digital HQ)**](https://github.com/RomarioDelphin/RomarioDelphin.github.io) | Apresentação executiva + cases | `HTML` `JS` | Portfólio live |
 </div>
 
 <br />
 
 <div align="center">
-  <h3>🧬 Laboratório Técnico (Open Source)</h3>
-
-| Projeto | Stack | Contexto |
-| :--- | :--- | :--- |
-| [**✂️ barberflow**](https://github.com/RomarioDelphin/barberflow) | `JavaScript` `Web` | Sistema de gestão operacional |
-| [**🏭 Sentinela_Industrial**](https://github.com/RomarioDelphin/Sentinela_Industrial) | `Python` `ML` | Manutenção preditiva industrial |
-| [**🏛️ Consulta-CNPJ-AI**](https://github.com/RomarioDelphin/Consulta-de-CNPJ-com-Analise-IA) | `Flask` `GovTech` | Análise de risco cadastral |
-| [**🛠️ Gerador de Dados**](https://github.com/RomarioDelphin/Gerador-de-Informacoes) | `Tools` | Utilitários técnicos |
-| [**🌐 Digital HQ**](https://github.com/RomarioDelphin/RomarioDelphin.github.io) | `Frontend` | Portfólio técnico |
+  <h3>🧩 Automação & Processos (Low-code / Operação)</h3>
 </div>
+
+- **Controle de Acesso Veicular com OCR**: leitura de placas + validação em base AppSheet + liberação automatizada  
+- **Plataforma de Auditoria e Conformidade**: inspeções QSMS, não conformidades, tarefas e alertas automatizados  
+- **Ponto Eletrônico Georreferenciado**: registro de ponto com CPF/foto e GPS para gestão de equipes externas  
 
 <br />
 
 <div align="center">
-  <h3>🛠️ Tech Stack & Arsenal</h3>
+  <h3>🛠️ Tech Stack (Aplicada a Operações)</h3>
   <br />
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,flask,postgres,docker,git,linux,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,flask,postgres,docker,git,linux&perline=12" />
+</div>
+
+<br />
+
+<div align="center">
+  <h3>📌 Posicionamento</h3>
+</div>
+
+Executivo de Operações e Transformação Digital, com base técnica e vivência real em ambientes industriais e agroindustriais. 
+Uso tecnologia e IA como meios para melhorar produtividade, reduzir custo, aumentar confiabilidade operacional e suportar decisões com dados.
+
+<br />
+
+<div align="center">
+  <sub>Goiânia – GO | Disponível para viagens e mudança</sub>
 </div>
