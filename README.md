@@ -1,76 +1,104 @@
 <p align="center">
-  <img src="./profile-header.svg" width="100%" alt="Romário Delphin — Inteligência Artificial para o Setor Público">
+  <img src="./profile-header.svg" alt="Romário Delphin — Engenharia, Inteligência Artificial e Transformação Digital" width="100%">
+</p>
+
+<h1 align="center">Romário Queiroz Delphin</h1>
+
+<p align="center">
+  <strong>Engenheiro de Computação · Graduado em Inteligência Artificial · MBA em Engenharia Industrial 4.0</strong><br>
+  <strong>Mestrando em Gestão Pública e Relações Institucionais</strong>
 </p>
 
 <p align="center">
-  <a href="https://romariodelphin.github.io/">
-    <img src="https://img.shields.io/badge/PORTFÓLIO-VER%20ONLINE-0A2331?style=for-the-badge&logo=googlechrome&logoColor=50D7DB" alt="Portfólio">
-  </a>
-  <a href="https://www.linkedin.com/in/romariodelphin/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-0A2331?style=for-the-badge&logo=linkedin&logoColor=50D7DB" alt="LinkedIn">
-  </a>
-</p>
-
-<p align="center">
-  <strong>Consultor em Inteligência Artificial para o Setor Público</strong><br>
-  Agentes de IA · SAPL · GovTech · Automação Legislativa · Governança de IA
-</p>
-
----
-
-### Atuação atual
-
-- **Membro Técnico — Inteligência Artificial no Legislativo Brasileiro**, Programa Interlegis.
-- **Assessor Legislativo Parlamentar e Especialista em IA e Inovação Pública**, Câmara Municipal de Querência — MT.
-- Desenvolvimento, desde 2023, de **agentes de IA integrados ao SAPL** e a fluxos institucionais.
-
-Meu trabalho conecta tecnologia, rito legislativo e gestão pública para transformar documentos dispersos em informação útil, verificável e acionável — preservando validação humana e segurança jurídica.
-
-### Case principal — Agentes de IA + SAPL
-
-> Uma atividade que exigia cerca de **48 horas** de análise humana intermitente passou a gerar processamento preliminar em aproximadamente **45 segundos**, mantendo revisão técnica humana antes da decisão.
-
-| Entrada | Estruturação | Inteligência | Controle |
-| :--- | :--- | :--- | :--- |
-| Diários Oficiais, empenhos, contratos e proposições | OCR, metadados e índice semântico | Agente auditor e cruzamento contextual | Rastreabilidade, governança e validação humana |
-
-[**Ver o carrossel completo do case →**](https://www.linkedin.com/posts/romariodelphin_agentes-de-ia-sapl-fiscaliza%C3%A7%C3%A3o-com-controle-activity-7494380024087781377-FfT-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADgL59gBCYDr_Q-0OPqtg6RLdAhO7Xkj3lk)
-
-### Projetos em destaque
-
-| Projeto | Aplicação | Tecnologias |
-| :--- | :--- | :--- |
-| [**Agentes de IA + SAPL**](https://github.com/RomarioDelphin/agentes-ia-sapl) | Fiscalização orçamentária e análise documental com revisão humana | IA generativa, RAG, OCR, SAPL |
-| [**Compliance Público — Análise de CNPJ**](https://github.com/RomarioDelphin/Consulta-de-CNPJ-com-Analise-IA) | Inteligência fiscal, risco e conformidade | Python, Flask, regras, dados |
-| [**Sentinela Industrial**](https://github.com/RomarioDelphin/Sentinela_Industrial) | Manutenção preditiva e confiabilidade de ativos | Python, ML, Streamlit, IoT |
-| [**Portfólio Profissional**](https://github.com/RomarioDelphin/RomarioDelphin.github.io) | Currículo digital, cases e publicações | HTML, CSS, JavaScript |
-
-### Áreas de foco
-
-**Inteligência Artificial · AI Agents · SAPL · GovTech · Legislative Technology**<br>
-**Digital Transformation · Process Automation · AI Governance · Python · Data**
-
-### Princípios de trabalho
-
-- **IA apoia o processo; não substitui decisão nem responsabilidade pública.**
-- Rastreabilidade desde a fonte até a evidência apresentada.
-- Governança de dados, segurança da informação e segurança jurídica desde o desenho.
-- Tecnologia traduzida em capacidade institucional e adoção responsável.
-
-### Base multidisciplinar
-
-A trajetória em **CR Agro, inpEV, Storaze e Cargill** consolidou competências em operações, liderança, suporte a sistemas, confiabilidade, análise de dados e melhoria contínua. Hoje, essa base é aplicada à transformação digital do setor público.
-
-### Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,flask,postgres,docker,git,linux&perline=10" alt="Tecnologias utilizadas">
-</p>
-
----
-
-<p align="center">
-  <strong>Brasília, Distrito Federal, Brasil</strong><br>
-  <a href="https://romariodelphin.github.io/">Portfólio</a> ·
+  <a href="https://romariodelphin.github.io/">Portfólio profissional</a> ·
   <a href="https://www.linkedin.com/in/romariodelphin/">LinkedIn</a>
+</p>
+
+---
+
+## Perfil profissional
+
+Transformo problemas operacionais e institucionais em **sistemas, automações e produtos digitais mensuráveis**. Minha atuação conecta Engenharia da Computação, Inteligência Artificial, Indústria 4.0, dados, confiabilidade de ativos e gestão de processos.
+
+Tenho experiência nos setores de **agronegócio, indústria, tecnologia e administração pública**, com passagem por Cargill, Storaze, inpEV, CR Agro e Câmara Municipal de Querência. Essa trajetória permite unir visão técnica, realidade operacional, governança e resultado de negócio.
+
+### Proposta de valor
+
+| Inteligência Artificial | Engenharia Industrial 4.0 | Transformação Digital | Gestão e Governança |
+| --- | --- | --- | --- |
+| Agentes de IA, RAG, OCR e automação documental | Manutenção preditiva, IoT, vibração e termografia | Integração de sistemas, automação e arquitetura de dados | KPIs, rastreabilidade, compliance, OPEX/CAPEX e liderança |
+
+> Tecnologia deve ampliar a capacidade humana, produzir evidências verificáveis e gerar resultados sustentáveis.
+
+## Projetos em destaque
+
+| Projeto | Problema enfrentado | Tecnologias e competências |
+| --- | --- | --- |
+| [Sentinela Industrial](https://github.com/RomarioDelphin/Sentinela_Industrial) | Predição de falhas e apoio à confiabilidade de ativos | Python, Machine Learning, Streamlit, IoT, manutenção preditiva |
+| [Agentes de IA + SAPL](https://github.com/RomarioDelphin/agentes-ia-sapl) | Análise documental e fiscalização com rastreabilidade e supervisão humana | IA generativa, RAG, OCR, SAPL, governança de IA |
+| [BarberFlow](https://github.com/RomarioDelphin/barberflow) | Gestão e agendamento SaaS com automação de relacionamento | React, Flask, PostgreSQL, Docker, n8n |
+| [Compliance e análise de CNPJ](https://github.com/RomarioDelphin/Consulta-de-CNPJ-com-Analise-IA) | Consulta empresarial, regras de risco e apoio à conformidade | Python, Flask, APIs, regras de negócio, dados públicos |
+| [Tema Portal Modelo — Câmara de Querência](https://github.com/RomarioDelphin/tema-camara-querencia-portal-modelo) | Modernização de portal legislativo, transparência e serviços digitais | Plone, Diazo, JavaScript, SAPL API, acessibilidade e LGPD |
+| [Portfólio profissional](https://github.com/RomarioDelphin/RomarioDelphin.github.io) | Apresentação de trajetória, cases, publicações e serviços | HTML, CSS, JavaScript, SEO e design responsivo |
+
+## Cases e resultados
+
+- **IA aplicada ao processo legislativo:** estruturação de fluxo supervisionado para análise de Diários Oficiais, empenhos, contratos e proposições, com rastreabilidade até a fonte.
+- **Processamento preliminar acelerado:** case documentado de redução de aproximadamente 48 horas de análise intermitente para cerca de 45 segundos de processamento inicial, mantendo validação humana.
+- **Confiabilidade industrial:** aplicação de dados de temperatura, vibração e rotação para classificação de risco de falha e apoio à manutenção preditiva.
+- **Automação de processos:** desenvolvimento de aplicações e integrações voltadas a atendimento, compliance, gestão, dados e serviços ao cidadão.
+
+## Experiência multidisciplinar
+
+- **Tecnologia, inovação e processos — setor público** · 2024–atual
+- **Consultoria de Tecnologia e Processos Operacionais — CR Agro** · 2024
+- **Gerência de Unidade e Supervisão de Central — inpEV** · 2022–2024
+- **Análise de Suporte de Sistemas — Storaze** · 2020–2021
+- **Análise Regional de Operações — Cargill** · 2017–2019
+
+Minha base operacional inclui liderança, melhoria contínua, suporte a sistemas, rastreabilidade, confiabilidade, análise de dados, indicadores e transformação de processos.
+
+## Formação e credenciais
+
+- **Mestrado em Gestão Pública e Relações Institucionais** · em andamento
+- **Graduação em Inteligência Artificial — UNIFAEL** · concluída
+- **MBA em Engenharia Industrial 4.0** · 2023
+- **Bacharelado em Engenharia de Computação** · 2022
+- **Pós-graduação em Liderança e Gestão de Pessoas** · 2021
+- **Associate Cloud Engineer — Google Cloud**
+- Formação complementar em **Inteligência Artificial no Setor Público**
+
+## Competências técnicas
+
+**IA e dados:** Python, Machine Learning, agentes de IA, RAG, OCR, engenharia de prompts, APIs, análise e governança de dados.
+
+**Engenharia e operações:** manutenção preditiva, confiabilidade operacional, vibração, termografia, lubrificação industrial, SAP, IoT industrial, MTBF, MTTR e disponibilidade.
+
+**Software e automação:** JavaScript, HTML, CSS, Flask, React, PostgreSQL, Docker, n8n, integração de sistemas e aplicações responsivas.
+
+**Gestão:** transformação digital, KPIs, P&L, OPEX/CAPEX, compliance, melhoria contínua, liderança e desenvolvimento de equipes.
+
+## Publicações
+
+- **Agro 5.0** — arquitetura de dados, automação e tomada de decisão no agronegócio.
+- **A Revolução Silenciosa** — Inteligência Artificial, transformação digital e novos modelos de gestão.
+
+## Atuação profissional
+
+Tenho interesse em projetos, consultoria, liderança técnica, palestras e desenvolvimento de soluções nas áreas de:
+
+- Inteligência Artificial aplicada a problemas reais;
+- Engenharia Industrial 4.0 e confiabilidade;
+- automação e integração de processos;
+- arquitetura e governança de dados;
+- transformação digital no agronegócio, indústria e setor público;
+- produtos digitais com impacto operacional mensurável.
+
+---
+
+<p align="center">
+  <strong>Querência, Mato Grosso, Brasil</strong><br>
+  <a href="https://romariodelphin.github.io/">Portfólio</a> ·
+  <a href="https://www.linkedin.com/in/romariodelphin/">LinkedIn</a> ·
+  <a href="https://github.com/RomarioDelphin?tab=repositories">Projetos no GitHub</a>
 </p>
