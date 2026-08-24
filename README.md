@@ -30,16 +30,20 @@ Tenho experiência nos setores de **agronegócio, indústria, tecnologia e admin
 
 > Tecnologia deve ampliar a capacidade humana, produzir evidências verificáveis e gerar resultados sustentáveis.
 
-## Projetos em destaque
+## Projetos
 
 | Projeto | Problema enfrentado | Tecnologias e competências |
-| --- | --- | --- |
-| [Sentinela Industrial](https://github.com/RomarioDelphin/Sentinela_Industrial) | Predição de falhas e apoio à confiabilidade de ativos | Python, Machine Learning, Streamlit, IoT, manutenção preditiva |
+|---|---|---|
+| [Portal Professor Neiriberto Abner](https://github.com/RomarioDelphin/portal-neiriberto-abner) | Mandato digital, transparência, notícias e produção legislativa integrada | Blogger XML, JavaScript, SAPL API, SEO |
+| [Tema Câmara de Querência](https://github.com/RomarioDelphin/tema-camara-querencia-portal-modelo) | Modernização de portal legislativo e serviços ao cidadão | Plone, Diazo, JavaScript, SAPL API, acessibilidade, LGPD |
 | [Agentes de IA + SAPL](https://github.com/RomarioDelphin/agentes-ia-sapl) | Análise documental e fiscalização com rastreabilidade e supervisão humana | IA generativa, RAG, OCR, SAPL, governança de IA |
+| **Emissor de Certificados** *(privado)* | Emissão e validação de certificados de palestras | React, TypeScript, Supabase, QR Code |
+| [Fiscal Risk AI](https://github.com/RomarioDelphin/Consulta-de-CNPJ-com-Analise-IA) | Consulta empresarial, regras de risco e apoio à conformidade | Python, Flask, APIs, regras de negócio, dados públicos |
+| [CNPJ Intelligence](https://github.com/RomarioDelphin/consultacnpj) | Protótipo client-side para consulta de dados empresariais | HTML, CSS, JavaScript, ReceitaWS |
 | [BarberFlow](https://github.com/RomarioDelphin/barberflow) | Gestão e agendamento SaaS com automação de relacionamento | React, Flask, PostgreSQL, Docker, n8n |
-| [Compliance e análise de CNPJ](https://github.com/RomarioDelphin/Consulta-de-CNPJ-com-Analise-IA) | Consulta empresarial, regras de risco e apoio à conformidade | Python, Flask, APIs, regras de negócio, dados públicos |
-| [Tema Portal Modelo — Câmara de Querência](https://github.com/RomarioDelphin/tema-camara-querencia-portal-modelo) | Modernização de portal legislativo, transparência e serviços digitais | Plone, Diazo, JavaScript, SAPL API, acessibilidade e LGPD |
-| [Portfólio profissional](https://github.com/RomarioDelphin/RomarioDelphin.github.io) | Apresentação de trajetória, cases, publicações e serviços | HTML, CSS, JavaScript, SEO e design responsivo |
+| [Sentinela Industrial](https://github.com/RomarioDelphin/Sentinela_Industrial) | Predição de falhas e apoio à confiabilidade de ativos | Python, Machine Learning, Streamlit, IoT |
+| [Engine.OS](https://github.com/RomarioDelphin/Gerador-de-Informacoes) | Geração de dados sintéticos para testes e homologação | HTML, CSS, JavaScript, algoritmos de validação |
+| [Portfólio profissional](https://github.com/RomarioDelphin/RomarioDelphin.github.io) | Apresentação de trajetória, cases, publicações e serviços | HTML, CSS, JavaScript, SEO, design responsivo |
 
 ## Cases e resultados
 
