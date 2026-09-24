@@ -37,7 +37,11 @@ Na Câmara Municipal de Querência, desenvolvi um fluxo de **OCR, busca semânti
 
 Também trabalho em interfaces e integração de informações para serviços públicos: [portal Professor Neiriberto Abner](https://github.com/RomarioDelphin/portal-neiriberto-abner) e [tema para o portal da Câmara de Querência](https://github.com/RomarioDelphin/tema-camara-querencia-portal-modelo).
 
-**Participação técnica no desafio G4:** [ver a submissão na branch específica](https://github.com/RomarioDelphin/ai-master-challenge/tree/submission/romario-queiroz/submissions/romario-queiroz). O protótipo documenta testes, dados e limites; a validação temporal não sustentou o uso de um modelo preditivo, por isso a solução apresenta um fluxo alternativo transparente. É um estudo de desafio, sem alegação de implantação comercial.
+## Testes e cases técnicos
+
+Registro de desafios de seleção e estudos de resolução de problemas, com método, evidências e limites documentados. São contribuições técnicas, sem vínculo de emprego ou alegação de implantação comercial.
+
+- **Desafio G4 · Lead Focus:** [ver a submissão na branch específica](https://github.com/RomarioDelphin/ai-master-challenge/tree/submission/romario-queiroz/submissions/romario-queiroz). O protótipo documenta testes e dados; a validação temporal não sustentou o uso de um modelo preditivo, por isso a solução apresenta um fluxo alternativo transparente.
 
 > Os repositórios apresentam projetos e estudos com diferentes estágios de desenvolvimento. Consulte o código e a documentação de cada projeto para avaliar seu escopo.
 
