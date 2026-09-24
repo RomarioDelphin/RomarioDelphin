@@ -1,245 +1,75 @@
 <p align="center">
-  <img src="./profile-header.svg" alt="Romário Delphin — Engenharia, Inteligência Artificial e Transformação Digital" width="100%">
+  <img src="./profile-header.svg" alt="Romário Delphin — engenharia, processos e tecnologia aplicada" width="100%">
 </p>
 
-<h1 align="center">Romário Queiroz Delphin</h1>
+<h1 align="center">Romário Delphin</h1>
 
 <p align="center">
-  <strong>Engenharia de Computação · Inteligência Artificial · Automação · Indústria 4.0</strong><br>
-  Transformando <strong>dados → contexto → decisão</strong> por meio de tecnologia aplicada a problemas reais.
+  <strong>Engenharia de Computação · Processos · Automação · Inteligência Artificial</strong><br>
+  Dados → contexto → decisão, com rastreabilidade e validação humana.
 </p>
 
 <p align="center">
   <a href="https://romariodelphin.github.io/">Portfólio</a> ·
   <a href="https://www.linkedin.com/in/romariodelphin/">LinkedIn</a> ·
-  <a href="https://github.com/RomarioDelphin?tab=repositories">Projetos</a>
+  <a href="https://github.com/RomarioDelphin?tab=repositories">Repositórios</a>
 </p>
 
 ---
 
-## 👋 Sobre mim
+## Sobre
 
-Sou **Engenheiro de Computação** com atuação na interseção entre **Inteligência Artificial, automação, dados, processos e Engenharia Industrial 4.0**.
+Sou engenheiro de computação, com experiência desde 2017 em operações, gestão de equipes, suporte a sistemas e melhoria de processos. Trabalhei no agronegócio, na logística de embalagens e no setor público. Hoje conecto essa experiência a projetos de automação, dados e IA aplicada.
 
-Minha trajetória combina tecnologia com experiência prática em ambientes operacionais, industriais, agronegócio e administração pública.
+Na Câmara Municipal de Querência, desenvolvi um fluxo de **OCR, busca semântica e análise assistida por IA** para documentos legislativos. Em um cenário específico de análise preliminar, o tempo relatado passou de cerca de **48 horas para aproximadamente 45 segundos**. A interpretação e a decisão continuaram sob responsabilidade humana; esse número descreve a etapa preliminar, não o processo legislativo completo.
 
-Desenvolvo soluções para transformar processos manuais, dados dispersos e problemas operacionais em **sistemas, automações e produtos digitais mensuráveis**.
+📍 Querência, MT · Disponível para atuação presencial e viagens
 
-Meu trabalho parte de um princípio simples:
+## Projetos selecionados
 
-> **Tecnologia deve ampliar a capacidade humana. IA apoia a análise; evidências, validação e responsabilidade permanecem humanas.**
+| Projeto | Problema abordado | Código |
+|:---|:---|:---|
+| **Agentes de IA + SAPL** | Apoio à análise documental legislativa, com recuperação de contexto, fontes rastreáveis e revisão humana. | [Explorar projeto](https://github.com/RomarioDelphin/agentes-ia-sapl) |
+| **Sentinela Industrial** | Exploração de dados operacionais para apoiar a identificação de sinais de falha em ativos. | [Explorar projeto](https://github.com/RomarioDelphin/Sentinela_Industrial) |
+| **Consulta de CNPJ com análise de IA** | Consulta de dados empresariais e aplicação de regras para apoiar a triagem de risco. | [Explorar projeto](https://github.com/RomarioDelphin/Consulta-de-CNPJ-com-Analise-IA) |
+| **BarberFlow** | Aplicação de gestão e automação de atendimento, com integração entre serviços. | [Explorar projeto](https://github.com/RomarioDelphin/barberflow) |
+| **Gerador de Informações** | Geração de dados sintéticos para testar formulários e fluxos sem usar dados pessoais reais. | [Explorar projeto](https://github.com/RomarioDelphin/Gerador-de-Informacoes) |
 
----
+Também trabalho em interfaces e integração de informações para serviços públicos: [portal Professor Neiriberto Abner](https://github.com/RomarioDelphin/portal-neiriberto-abner) e [tema para o portal da Câmara de Querência](https://github.com/RomarioDelphin/tema-camara-querencia-portal-modelo).
 
-## ⚡ O que eu construo
+**Participação técnica no desafio G4:** [ver a submissão na branch específica](https://github.com/RomarioDelphin/ai-master-challenge/tree/submission/romario-queiroz/submissions/romario-queiroz). O protótipo documenta testes, dados e limites; a validação temporal não sustentou o uso de um modelo preditivo, por isso a solução apresenta um fluxo alternativo transparente. É um estudo de desafio, sem alegação de implantação comercial.
 
-| Inteligência Artificial | Engenharia & Indústria 4.0 | Software & Automação | Dados & Governança |
-|---|---|---|---|
-| Agentes de IA | Manutenção preditiva | Aplicações web | APIs e integrações |
-| RAG | Confiabilidade | Automação de processos | Arquitetura de dados |
-| OCR e documentos | IoT industrial | Workflows | Indicadores e KPIs |
-| Machine Learning | Análise de ativos | Sistemas internos | Rastreabilidade |
-| Human-in-the-loop | Monitoramento | Produtos digitais | Governança de IA |
+> Os repositórios apresentam projetos e estudos com diferentes estágios de desenvolvimento. Consulte o código e a documentação de cada projeto para avaliar seu escopo.
 
----
+## Como trabalho
 
-# 🚀 Projetos em destaque
+1. **Entender o processo:** conversar com as pessoas envolvidas e identificar o problema que precisa ser resolvido.
+2. **Organizar os dados:** definir fontes, regras, indicadores e limites de uso.
+3. **Construir e testar:** criar um fluxo reproduzível, documentar decisões e conferir resultados.
+4. **Validar com pessoas:** manter revisão humana nas análises e decisões que a exigem.
 
-Projetos selecionados por demonstrarem diferentes dimensões da minha atuação em engenharia, IA, software, automação e transformação digital.
+**Ferramentas e práticas:** Python, JavaScript, HTML, CSS, APIs, OCR, busca semântica, IA generativa, automação de fluxos, documentação técnica, indicadores e melhoria contínua. Outros recursos e tecnologias aparecem nos repositórios em que foram utilizados.
 
-### 🏭 Sentinela Industrial
+## Experiência
 
-**Predição de falhas e apoio à confiabilidade de ativos industriais.**
+| Organização | Atuação | Período |
+|:---|:---|:---|
+| Câmara Municipal de Querência | Assessor Legislativo Parlamentar; processos, relatórios e soluções digitais | mai/2019 – set/2026 |
+| Programa Interlegis | Membro Técnico Voluntário em Inteligência Artificial no Legislativo | mai/2026 – atual |
+| CR Agro | Consultor de Tecnologia e Processos Operacionais | jul/2024 – out/2024 |
+| inpEV | Gerente de Unidade e Supervisor de Central | nov/2022 – jun/2024 |
+| Storaze | Analista de Suporte a Sistemas | ago/2020 – nov/2021 |
+| Cargill | Analista Regional de Operações | out/2017 – jun/2019 |
 
-Aplicação de dados operacionais para identificação de padrões de risco e apoio à manutenção preditiva.
+Os períodos acima seguem o currículo profissional e incluem atuações concomitantes. O trabalho no Interlegis é voluntário; a modalidade dos demais vínculos não está detalhada nesta página.
 
-**Stack:** Python · Machine Learning · Streamlit · IoT · análise de dados
+## Formação
 
-[→ Ver projeto](https://github.com/RomarioDelphin/Sentinela_Industrial)
+- **Engenharia de Computação** — 2022.
+- **MBA em Engenharia Industrial 4.0**, Anhanguera — 2023.
+- **Pós-graduação em Liderança e Gestão de Pessoas**, Descomplica — 2021.
+- **Graduação em Inteligência Artificial**, UNIFAEL — conclusão informada para 2026.
 
----
+## Contato
 
-### 🤖 Agentes de IA + SAPL
-
-**IA aplicada à análise documental e ao processo legislativo com supervisão humana.**
-
-Arquitetura para processamento e análise de documentos utilizando agentes de IA, recuperação de contexto e rastreabilidade até as fontes originais.
-
-**Stack:** IA Generativa · RAG · OCR · APIs · SAPL · governança de IA
-
-**Princípios utilizados:**
-
-- human-in-the-loop;
-- rastreabilidade das evidências;
-- validação humana;
-- separação entre análise automatizada e decisão;
-- uso responsável de IA.
-
-[→ Ver projeto](https://github.com/RomarioDelphin/agentes-ia-sapl)
-
----
-
-### 🧠 Fiscal Risk AI
-
-**Dados públicos e Inteligência Artificial aplicados à análise empresarial.**
-
-Aplicação para consulta de informações empresariais e processamento de regras de risco como apoio à análise e conformidade.
-
-**Stack:** Python · Flask · APIs · dados públicos · regras de negócio
-
-[→ Ver projeto](https://github.com/RomarioDelphin/Consulta-de-CNPJ-com-Analise-IA)
-
----
-
-### ⚙️ BarberFlow
-
-**Plataforma de gestão e automação de relacionamento.**
-
-Projeto de produto digital envolvendo aplicação web, persistência de dados, automações e integração entre serviços.
-
-**Stack:** React · Flask · PostgreSQL · Docker · n8n
-
-[→ Ver projeto](https://github.com/RomarioDelphin/barberflow)
-
----
-
-### 🧪 Engine.OS
-
-**Geração e validação de dados sintéticos para testes e homologação.**
-
-Ferramenta criada para apoiar cenários de desenvolvimento e validação sem necessidade de utilização de dados pessoais reais.
-
-**Stack:** JavaScript · HTML · CSS · algoritmos de validação
-
-[→ Ver projeto](https://github.com/RomarioDelphin/Gerador-de-Informacoes)
-
----
-
-### 🏛️ Engenharia de Software aplicada a serviços públicos
-
-**Modernização de portais, integração de dados legislativos e serviços digitais ao cidadão.**
-
-Projetos envolvendo integração com SAPL, modernização de interfaces, acessibilidade e disponibilização estruturada de informações públicas.
-
-**Stack:** JavaScript · APIs · SAPL · Plone · Diazo · SEO · acessibilidade
-
-[→ Portal Professor Neiriberto Abner](https://github.com/RomarioDelphin/portal-neiriberto-abner)
-
-[→ Tema Câmara de Querência](https://github.com/RomarioDelphin/tema-camara-querencia-portal-modelo)
-
----
-
-# 📊 Engenharia orientada a resultados
-
-Não trato tecnologia apenas como código.
-
-Procuro entender:
-
-**problema → processo → dados → arquitetura → implementação → validação → resultado**
-
-### IA documental
-
-Processamento, recuperação de contexto e análise assistida de documentos, preservando rastreabilidade e validação humana.
-
-### Confiabilidade industrial
-
-Uso de dados operacionais, temperatura, vibração e outras variáveis para apoiar identificação de riscos e manutenção.
-
-### Automação
-
-Redução de tarefas repetitivas por meio de integrações, workflows, APIs e aplicações.
-
-### Transformação digital
-
-Conversão de processos fragmentados em fluxos estruturados, mensuráveis e auditáveis.
-
----
-
-# 🧰 Stack & competências
-
-### Inteligência Artificial e Dados
-
-`Python` `Machine Learning` `RAG` `OCR` `Agentes de IA` `LLMs` `APIs` `Prompt Engineering` `Governança de IA`
-
-### Desenvolvimento
-
-`JavaScript` `HTML` `CSS` `React` `Flask` `PostgreSQL` `Docker`
-
-### Automação & Integração
-
-`n8n` `REST APIs` `Webhooks` `Integração de Sistemas` `Automação de Processos`
-
-### Engenharia & Operações
-
-`IoT` `Manutenção Preditiva` `Confiabilidade` `SAP` `Vibração` `Termografia` `MTBF` `MTTR`
-
-### Gestão & Transformação
-
-`KPIs` `Melhoria Contínua` `OPEX/CAPEX` `Compliance` `Transformação Digital` `Gestão de Processos`
-
----
-
-# 💼 Experiência
-
-Minha trajetória profissional combina **tecnologia, operações, gestão e transformação de processos**.
-
-### Câmara Municipal de Querência
-**Assessoria parlamentar e apoio técnico** · fev/2026 – set/2026
-
-Atuação em ambiente legislativo, processos institucionais, tecnologia e iniciativas relacionadas à modernização e uso de ferramentas digitais.
-
-### Atuação técnica voluntária
-
-Colaboração voluntária em iniciativas envolvendo **Inteligência Artificial, tecnologia e modernização de processos legislativos**, incluindo estudos e aplicações relacionados ao ecossistema SAPL/Interlegis.
-
-### CR Agro
-**Consultoria em Tecnologia e Processos Operacionais** · 2024
-
-Atuação relacionada à análise e melhoria de processos com aplicação de tecnologia.
-
-### inpEV
-**Gestão operacional** · 2022 – 2024
-
-Experiência em liderança, operações, indicadores, rastreabilidade e melhoria contínua.
-
-### Storaze
-**Suporte de Sistemas** · 2020 – 2021
-
-Atuação com tecnologia, sistemas e suporte a ambientes corporativos.
-
-### Cargill
-**Operações** · 2017 – 2019
-
-Experiência em ambiente corporativo e operacional ligado ao agronegócio.
-
----
-
-# 🎓 Formação
-
-**Engenharia de Computação**  
-Bacharelado · concluído em 2022
-
-**MBA em Engenharia Industrial 4.0**  
-Concluído em 2023
-
-**Pós-graduação em Liderança e Gestão de Pessoas**  
-Concluída em 2021
-
-Minha formação complementar inclui estudos e capacitações relacionados a **Inteligência Artificial, cloud computing, transformação digital e aplicação de IA no setor público**.
-
----
-
-# 🧭 Como penso tecnologia
-
-```text
-DADOS
-  ↓
-CONTEXTO
-  ↓
-AUTOMAÇÃO
-  ↓
-EVIDÊNCIA
-  ↓
-DECISÃO
-  ↓
-RESULTADO
+[LinkedIn](https://www.linkedin.com/in/romariodelphin/) · [Portfólio](https://romariodelphin.github.io/) · [E-mail](mailto:queirozdelphin@gmail.com)
